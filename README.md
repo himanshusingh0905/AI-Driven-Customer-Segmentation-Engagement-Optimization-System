@@ -1,12 +1,11 @@
 
 1. DATA COLLECTION & PROCESSING
-  * Using pandas and sql
-    🔹 Step 1: Load the Dataset
-    🔹 Step 2: Understand the Data 
-    🔹 Step 3: Handle Missing Values
-    🔹 Step 4: Handle Duplicates
-    🔹 Step 5: Convert Data Types (If Needed)
-    🔹 Step 6: Handle Outliers (Optional but Useful)
+  * Step 1: Load the Dataset
+  * Step 2: Understand the Data 
+  * Step 3: Handle Missing Values
+  * Step 4: Handle Duplicates
+  * Step 5: Convert Data Types (If Needed)
+  * Step 6: Handle Outliers (Optional but Useful)
 
 2. CUSTOMER SEGMENTATION:
   * K-means or DBSCAN clustering
